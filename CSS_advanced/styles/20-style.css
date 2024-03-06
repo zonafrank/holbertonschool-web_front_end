@@ -182,7 +182,7 @@ h6 {
 .row::after {
   content: "";
   display: table;
-  float: both;
+  clear: both;
 }
 
 ul.row {
