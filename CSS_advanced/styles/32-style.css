@@ -388,7 +388,7 @@ ul.row {
   position: relative;
 }
 
-.card-work:hover .work-outer {
+.card-work:hover .card-outer {
   transform: scale(0.95);
 }
 
