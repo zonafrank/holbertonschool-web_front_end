@@ -169,7 +169,7 @@ h6 {
   padding: var(--footer-padding);
 }
 
-.footer .footer-copyright {
+.footer-copyright {
   margin: 0;
   font-size: var(--font-size-small);
   color: var(--text-color);
